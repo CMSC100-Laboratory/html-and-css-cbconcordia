@@ -19,6 +19,6 @@
   border-color: black;
 }
 
-p{
-  padding-left: 10px;
+.half{
+  width: 50%;
 }
